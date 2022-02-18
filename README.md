@@ -1,5 +1,6 @@
-# InputWork
-Boring
-CMPINF 0010
-
-2/18/22
+while True:
+    try:
+        fname = input("Enter first name: ")
+        break
+    except:
+        print("String please")
